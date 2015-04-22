@@ -77,12 +77,12 @@
 		02C282E11AE6F87E0003AF11 /* MarkovTextGenerator */ = {
 			isa = PBXGroup;
 			children = (
+				02C283041AE6FC4F0003AF11 /* MarkovModel.swift */,
 				02C282E41AE6F87E0003AF11 /* AppDelegate.swift */,
 				02C282E61AE6F87E0003AF11 /* ViewController.swift */,
 				02C282E81AE6F87E0003AF11 /* Images.xcassets */,
 				02C282EA1AE6F87E0003AF11 /* Main.storyboard */,
 				02C282E21AE6F87E0003AF11 /* Supporting Files */,
-				02C283041AE6FC4F0003AF11 /* MarkovModel.swift */,
 			);
 			path = MarkovTextGenerator;
 			sourceTree = "<group>";
